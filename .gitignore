@@ -1,0 +1,4 @@
+.DS_Store
+backend/.env
+frontend/.env
+readmegenerate.txt
